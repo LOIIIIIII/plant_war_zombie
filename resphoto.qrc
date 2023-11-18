@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/bgc">
+        <file>res/Other/gameFail.png</file>
+        <file>res/Other/gameWin.png</file>
+        <file>res/Other/map0.jpg</file>
+        <file>res/Other/menu.png</file>
+        <file>res/Other/menu1.png</file>
+        <file>res/Other/menu2.png</file>
+        <file>res/Other/headtitle.png</file>
+        <file>res/Other/Shop.png</file>
+        <file>res/Other/Shovel.png</file>
+        <file>res/Other/ShovelBank.png</file>
+        <file>res/Other/LawnMower.png</file>
+        <file>res/Other/Card.png</file>
+        <file>res/Other/Sun.gif</file>
+        <file>res/Other/Pea.png</file>
+        <file>res/Other/PeaSnow.png</file>
+        <file>res/Other/Boom.gif</file>
+    </qresource>
+    <qresource prefix="/plant">
+        <file>res/Plant/CherryBomb.gif</file>
+        <file>res/Plant/CherryBomb.png</file>
+        <file>res/Plant/Peashooter.gif</file>
+        <file>res/Plant/Peashooter.png</file>
+        <file>res/Plant/PotatoMine.gif</file>
+        <file>res/Plant/PotatoMine1.gif</file>
+        <file>res/Plant/PotatoMineBomb.gif</file>
+        <file>res/Plant/SnowPea.gif</file>
+        <file>res/Plant/SnowPea.png</file>
+        <file>res/Plant/SunFlower.gif</file>
+        <file>res/Plant/WallNut.gif</file>
+        <file>res/Plant/WallNut.png</file>
+        <file>res/Plant/WallNut1.gif</file>
+        <file>res/Plant/WallNut2.gif</file>
+        <file>res/Plant/Repeater.gif</file>
+        <file>res/Plant/Repeater.png</file>
+        <file>res/Plant/SunFlower.png</file>
+        <file>res/Plant/PotatoMine.png</file>
+    </qresource>
+    <qresource prefix="/Zombie">
+        <file>res/Zombie/0.gif</file>
+        <file>res/Zombie/1.gif</file>
+        <file>res/Zombie/2.gif</file>
+    </qresource>
+</RCC>
